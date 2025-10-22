@@ -1,0 +1,31 @@
+0.14s    8579 https://www.openai.com
+0.23s   17247 https://www.google.com
+0.25s  307328 https://www.nasa.gov
+0.25s  187833 https://www.apple.com
+0.27s      23 https://www.yahoo.com
+0.29s      92 https://www.wikipedia.org
+0.38s  603795 https://www.ted.com
+0.39s    8536 https://www.quora.com
+0.42s  222240 https://www.microsoft.com
+0.43s  475506 https://www.bbc.com
+0.43s   13854 https://www.bloomberg.com
+0.43s   82945 https://www.facebook.com
+0.44s       0 https://www.netflix.com
+0.47s   38144 https://www.medium.com
+0.49s     118 https://www.imdb.com
+0.50s  396019 https://www.cloudflare.com
+0.50s  141020 https://www.linkedin.com
+0.51s 1023997 https://www.nytimes.com
+0.53s  737044 https://www.instagram.com
+0.57s  563572 https://www.github.com
+0.60s    5070 https://www.amazon.com
+0.61s  160971 https://www.spotify.com
+0.72s 4910702 https://www.cnn.com
+0.85s  715950 https://www.youtube.com
+0.91s  225922 https://www.twitter.com
+0.91s  446563 https://www.dropbox.com
+1.01s  500450 https://www.reddit.com
+while reading https://www.ebay.com: gzip: invalid header
+1.09s  352544 https://www.stackoverflow.com
+1.31s 1778689 https://www.weather.com
+1.31s elapsed
